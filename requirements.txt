@@ -13,3 +13,6 @@ python-docx
 
 #Thư viện hỗ trợ đọc/ghi file Excel (.xlsx)
 openpyxl
+
+numpy-financial
+
